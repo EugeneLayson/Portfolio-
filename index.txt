@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Eugene Layson
+Eugene Layson
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+eugenelayson@sibugaytech.edu.ph.com
 
 Phone
-+1 (213) 352-2795
++639706855889
 
 Birthday
-June 23, 1982
+August 5 2003
 
 Location
-Sacramento, California, USA
+Ipil Zamboanga sibugay
 
 # navbar
 
@@ -32,7 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm Creative Director and UI/UX Designer from Zamboanga sibugay, ipil, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
@@ -62,21 +62,21 @@ I make high-quality photos of any category at a professional level.
 
 Testimonials
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Gerald gonzales
+Gerald gonzales
+Eugene was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Jaider catubig
+Jaider catubig
+Eugene was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Sarabi dermosa
+sarabi dermosa
+Eugene was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Bung oton
+bung oton
+Eugene was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 
 ## clients
@@ -93,32 +93,25 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+ipil central elementary school 
+2008 — 2014
+sibugay 
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+ipil national highschool 
+2015 — 2022
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+sibugay technical institute incorporated 
+2023 — 2026
 
 Experience
 
 Creative director
 2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
-
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+For no one destroys and corrupts pleasure itself by the flattery of present pleasures, except by pains and troubles
 
 Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
+2020 — 2024
+For no one destroys and corrupts pleasure itself by the flattery of present pleasures, save what pains and what troubles.
 My skills
 
 Web design
@@ -151,11 +144,11 @@ alt = finance
 Finance
 Web development
 
-alt = orizon
+alt = job
 Orizon
 Web development
 
-alt = fundo
+alt = fund
 Fundo
 Web design
 
@@ -193,7 +186,6 @@ alt = Design conferences in 2022
 Design
 Fab 23, 2022
 Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
 
 alt = Best fonts every designer
 Design
@@ -206,25 +198,26 @@ Design
 Fab 23, 2022
 Design digest #80
 Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+Unless they are blinded by lust, they do not come out, who of us undertakes any exercise of the body.
 
 alt = UI interactions of the week
 Design
 Fab 23, 2022
 UI interactions of the week
 Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+For I will come to the smallest detail, he will follow the teaching of the elitist, who is no stranger to the exercise of any kind of work
 
 alt = The forgotten art of spacing
 Design
 Fab 23, 2022
 The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+It is very pleasing to me, but I give such a time that it will happen with some great labor and pain
 
 alt = Design digest #79
 Design
 Fab 23, 2022
 Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
+If nothing hinders the choice, or at least what pleases him most, he wants to be a hair.
 
 
 # contact
